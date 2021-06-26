@@ -17,9 +17,7 @@ body {
 header {                                                          
     padding: 30px 10%;                                            
     height: calc(100vh);                                          
-    background: url("https://i.ibb.co/c6shtfc/photo-1496171367470
--9ed9a91ea931.png  "), linear-gradient(225deg, #ff0080, rgba(0, 0
-, 0, 0.37));                                                      
+    background: url("https://i.ibb.co/c6shtfc/photo-1496171367470-9ed9a91ea931.png  "), linear-gradient(225deg, #ff0080, rgba(0, 0, 0, 0.37));                                                      
     background-blend-mode: overlay;                               
     background-size: cover;                                       
     background-repeat: no-repeat;                                 
